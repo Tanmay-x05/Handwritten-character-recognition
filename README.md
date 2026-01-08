@@ -3,7 +3,8 @@
 <img width="744" height="833" alt="Screenshot 2026-01-08 at 16 51 54" src="https://github.com/user-attachments/assets/0b0fc3c4-6075-461d-984e-c35709cdee33" />
 
 
-Handwritten character recognition using the EMNIST Letters dataset, featuring preprocessing, character segmentation, and deep learning–based classification built with TensorFlow, NumPy, and OpenCV, designed for experimentation and learning in computer vision and machine learning.Also include this
+
+Handwritten character recognition using the EMNIST Letters dataset, featuring preprocessing, character segmentation, and deep learning–based classification built with TensorFlow, NumPy, and OpenCV, designed for experimentation and learning in computer vision and machine learning. Also include this
 Here’s a refined, integrated, and more focused description that cleanly incorporates the EMNIST Letters work, while keeping a research-oriented tone and avoiding repetition:
 Neural Character Recognition System (Digits & Letters)
 Developed an end-to-end handwritten character recognition system for both digits and alphabetic characters, using MNIST and EMNIST Letters datasets. The project involved image preprocessing, normalization, and character segmentation, followed by a comparative evaluation of classical machine learning models (KNN, Random Forest) and a deep learning–based Convolutional Neural Network (CNN) implemented using TensorFlow/Keras.
